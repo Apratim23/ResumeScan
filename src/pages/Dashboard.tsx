@@ -54,7 +54,7 @@ const Dashboard = () => {
         suggestions: [
           'Add specific metrics to showcase the impact of your frontend development work, such as performance improvements or user engagement increases.',
           'Highlight any experience with backend technologies like Node.js, even if it was a small part of your role or a personal project.',
-          'Include examples of how you've implemented responsive design principles in your projects.',
+          "Include examples of how you've implemented responsive design principles in your projects.",
           'Add more details about your experience with state management in React applications.'
         ]
       };
